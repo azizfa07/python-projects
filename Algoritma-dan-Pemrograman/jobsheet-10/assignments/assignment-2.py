@@ -16,6 +16,6 @@ elif bilangan3 > bilangan2 > bilangan1 :
 elif bilangan2 > bilangan1 > bilangan3 :
     print("Urutan bilangannya dari terbesar : ", bilangan2, bilangan1, bilangan3)
 elif bilangan2 > bilangan3 > bilangan1 :
-    print("Urutan bilangannya dari terbesar : ", bilangan2, bilangan3, bilangan1)
+    print("Urutan bilangannya dari terbesar hingga terkecil : ", bilangan2, bilangan3, bilangan1)
 else :
     print("bilangan sama semua")

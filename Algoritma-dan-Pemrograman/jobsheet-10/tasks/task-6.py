@@ -1,4 +1,4 @@
-print("Penentuan dislkon")
+print("Penentuan diskon")
 print("-----------------")
 
 besarPembelian = int(input("Nilai nominal pembelian : "))
